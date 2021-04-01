@@ -4,7 +4,9 @@ I’m Dennis, a freelance software developer working full-time on open source an
 
 - 🔭  I’m currently working on [BTCPay Server](https://github.com/btcpayserver)
 - 💚  See [my GitHub Sponsors profile](https://github.com/sponsors/dennisreimann) for details and other projects
-- 🌱  I’m learning C# and ASP.NET
+- 👨🏻‍💻 C# and ASP.NET, JavaScript, CSS and HTML
+- 🛠  Crafting static sites and JAM stack apps
+- 🦾  Automating workflows with GitHub Actions and GitHub Pages
 - 💬  Ask me about UIengineering and web development
-- 📫  Reach me as @dennisreimann on Twitter
-- 🔥  Fun fact: Has decent barbecueing skills 
+- 📫  Reach out on [Twitter](https://twitter.com/_d11n_) or [Mastodon](https://bitcoinhackers.org/@d11n)
+- 🔥  Fun fact: I have decent barbecueing skills 
