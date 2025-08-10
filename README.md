@@ -2,7 +2,6 @@
 
 I’m Dennis, a freelance software developer working full-time on open source and bitcoin-related software projects.
 
-- 🔭  I’m currently working on [BTCPay Server](https://github.com/btcpayserver)
 - 👨🏻‍💻 C# and .NET, JavaScript, CSS and HTML
 - 🛠  Crafting static sites and JAM stack apps
 - 🦾  Automating workflows with GitHub Actions
